@@ -1,0 +1,12 @@
+- label: Festival Special
+  items:
+    - name: Chai Masala
+      link: /masala/chai-masala
+- label: Biryani
+  items:
+    - name: Dum Biryani
+      items:
+        - name: Chicken Dum Biryani
+          link: /chicken-dum-biryani
+        - name: Veg Biryani
+          link: /veg-Biryani

@@ -1,0 +1,13 @@
+- label: Daily
+  items:
+    - name: Chai Masala
+      link: /masala/chai-masala
+- label: Occasional
+  items:
+    - name: OMG biwi masala
+      link: /masala/omg-biwi
+      items:
+        - name: Awesome Biwi
+          link: /masala/omg-biwi
+        - name: Gazab Biwi
+          link: /masala/omg-Biwi
