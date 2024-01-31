@@ -1,0 +1,17 @@
+- name: Daily
+  link: /#
+  dropdown:
+    - name: Breakfast
+      link: /daily/breakfast/
+    - name: Lunch
+      link: /daily/lunch/
+    - name: Dinner
+      link: /daily/dinner
+- name: Weekend
+  link: /weekend/
+- name: Festival
+  link: /festival/
+- name: Masala
+  link: /masala/
+- name: Glossary
+  link: /glossary/
