@@ -9,12 +9,9 @@
       link: /daily/dinner
 - name: Weekend
   link: /weekend/
+- name: Festival
+  link: /festival/
 - name: Masala
   link: /masala/
-- name: Occasional
-  link: /#
-  dropdown: 
-    - name: Festival
-      link: /festival/
 - name: Glossary
   link: /glossary/
