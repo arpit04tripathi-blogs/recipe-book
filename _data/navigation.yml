@@ -1,5 +1,3 @@
-- name: About
-  link: /about/
 - name: Daily
   link: /#
   dropdown:
