@@ -1,13 +1,6 @@
-- label: Daily
+- label: Home Made Masala
   items:
     - name: Chai Masala
-      link: /masala/chai-masala
-- label: Occasional
-  items:
-    - name: OMG biwi masala
-      link: /masala/omg-biwi
-      items:
-        - name: Awesome Biwi
-          link: /masala/omg-biwi
-        - name: Gazab Biwi
-          link: /masala/omg-Biwi
+      link: /chai-masala
+    - name: Sambhar Masala
+      link: /sambhar-masala

@@ -1,13 +1,15 @@
 - label: Daily Breakfast
   items:
-    - name: Chai Masala
-      link: /masala/chai-masala
+    - name: Poha (Coming Soon)
+      link: /daily/poha
+      items:
+        - name: Bread Poha (Coming Soon)
+          link: /daily/bread-poha
 - label: Occasional
   items:
-    - name: OMG biwi masala
-      link: /masala/omg-biwi
+    - name: Dosa
       items:
-        - name: Awesome Biwi
-          link: /masala/omg-biwi
-        - name: Gazab Biwi
-          link: /masala/omg-Biwi
+        - name: Masala Dosa (Coming Soon)
+          link: /daily/masala-dosa
+        - name: Raagi Dosa (Coming Soon)
+          link: /daily/raagi-dosa

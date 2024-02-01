@@ -1,0 +1,12 @@
+- label: Daily Meals
+  items:
+    - name: Daal
+      items:
+        - name: Masoor Daal
+          link: /daily/masoor-daal
+- label: Occasional
+  items:
+    - name: Dahi Aloo
+      link: /daily/dahi-aloo
+    - name: Hyderabadi Paneer
+      link: /daily/hyderabadi-paneer
