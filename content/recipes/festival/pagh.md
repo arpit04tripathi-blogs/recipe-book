@@ -1,7 +1,7 @@
 ---
 layout: recipe
-permalink: /charnamrit
-title: Charnamrit
+permalink: /pagh
+title: Pagh
 author: Parul Singh
 date: 2021-03-02
 show_sidebar: false
@@ -9,20 +9,13 @@ image: https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171
 hero_image: https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171421/YFL-Pav-Bhaji-2.jpg?tr=w-1600
 hero_darken: true
 ingredients:
-    - Makhana
-    - Kishmis
-    - Kaaju
-    - Naariyal
-    - Badaam
-    - Ilaichi
-    - Sugar
-    - Tulsi
-    - 1 tbsp Honey
-    - 1 tsp Milk
-    - Curd
-    - Water
-    - Gangajal
-    - Mishri
+    - Makhaane
+    - Kaju
+    - Roasted Sooji
+    - Nariyal (kisa hua)
+    - badaam (slightly roasted)
+    - 1 cup sugar
+    - 1/2 cup water
 method:
     - Prep Ingredients
     - Cooking
@@ -44,7 +37,7 @@ Photo by <a href="https://stocksnap.io/author/36317">Janko Ferlic</a> from <a hr
 
 ## Cooking
 
-1. Oil
-2. Heat
-3. Grind
-4. Mix well
+1. Make Sugar Syrup
+   1. Add 1 cup sugar and 1/2 cup water
+   2. Boil while stiring
+2. Mix all

@@ -1,7 +1,7 @@
 ---
 layout: recipe
-permalink: /charnamrit
-title: Charnamrit
+permalink: /panjiri
+title: Panjiri
 author: Parul Singh
 date: 2021-03-02
 show_sidebar: false
@@ -9,20 +9,11 @@ image: https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171
 hero_image: https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/01171421/YFL-Pav-Bhaji-2.jpg?tr=w-1600
 hero_darken: true
 ingredients:
-    - Makhana
-    - Kishmis
-    - Kaaju
-    - Naariyal
-    - Badaam
-    - Ilaichi
-    - Sugar
-    - Tulsi
-    - 1 tbsp Honey
-    - 1 tsp Milk
-    - Curd
-    - Water
-    - Gangajal
-    - Mishri
+    - Ghee
+    - Aata
+    - Dry Fruits (kaju, pista, badaam)
+    - Elaichi
+    - Sugar (powdered)
 method:
     - Prep Ingredients
     - Cooking
@@ -44,7 +35,9 @@ Photo by <a href="https://stocksnap.io/author/36317">Janko Ferlic</a> from <a hr
 
 ## Cooking
 
-1. Oil
-2. Heat
-3. Grind
-4. Mix well
+1. Add Ghee in pan
+2. Add aata.
+3. Roast till brownish
+4. add elaichi, dry fruits, powdered sugar
+5. roast for some more time.
+6. Let it cool
