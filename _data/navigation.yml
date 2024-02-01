@@ -2,16 +2,16 @@
   link: /#
   dropdown:
     - name: Breakfast
-      link: /daily/breakfast/
-    - name: Lunch
-      link: /daily/lunch/
-    - name: Dinner
-      link: /daily/dinner
+      link: /daily/breakfast
+    - name: Meals
+      link: /daily/meals
+    - name: Snacks
+      link: /daily/snacks
 - name: Weekend
-  link: /weekend/
+  link: /weekend
 - name: Festival
-  link: /festival/
+  link: /festival
 - name: Masala
-  link: /masala/
+  link: /masala
 - name: Glossary
-  link: /glossary/
+  link: /glossary
