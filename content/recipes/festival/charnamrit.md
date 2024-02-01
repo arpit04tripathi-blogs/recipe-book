@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /Charnamrit
+permalink: /charnamrit
 title: Charnamrit
 author: Parul Singh
 date: 2021-03-02

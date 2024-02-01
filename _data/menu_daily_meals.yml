@@ -3,10 +3,10 @@
     - name: Daal
       items:
         - name: Masoor Daal
-          link: /daily/masoor-daal
+          link: /masoor-daal
 - label: Occasional
   items:
     - name: Dahi Aloo
-      link: /daily/dahi-aloo
+      link: /dahi-aloo
     - name: Hyderabadi Paneer
-      link: /daily/hyderabadi-paneer
+      link: /hyderabadi-paneer

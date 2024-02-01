@@ -1,15 +1,15 @@
 - label: Daily Breakfast
   items:
     - name: Poha (Coming Soon)
-      link: /daily/poha
+      link: /poha
       items:
         - name: Bread Poha (Coming Soon)
-          link: /daily/bread-poha
+          link: /bread-poha
 - label: Occasional
   items:
     - name: Dosa
       items:
         - name: Masala Dosa (Coming Soon)
-          link: /daily/masala-dosa
+          link: /masala-dosa
         - name: Raagi Dosa (Coming Soon)
-          link: /daily/raagi-dosa
+          link: /raagi-dosa
