@@ -3,7 +3,7 @@ layout: page
 title: Masala
 subtitle: Home made fresh masala
 description: This is the meta description for this page and will help it appear in search engines
-permalink: /masala/
+permalink: /masala
 menubar: menu_masala
 ---
 

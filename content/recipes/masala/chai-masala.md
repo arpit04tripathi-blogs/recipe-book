@@ -1,6 +1,6 @@
 ---
 layout: recipe
-permalink: /masala/chai-masala
+permalink: /chai-masala
 title: Chai Masala
 author: Arpit Tripathi
 date: 2021-03-02

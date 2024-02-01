@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weekend Recipes
-permalink: /weekend/
+permalink: /weekend
 menubar: menu_weekend
 ---
 

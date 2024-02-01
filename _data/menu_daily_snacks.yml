@@ -1,0 +1,13 @@
+- label: Snacks
+  items:
+    - name: Chiwda
+      link: /chiwda
+- label: Occasional
+  items:
+    - name: OMG biwi masala
+      link: /omg-biwi
+      items:
+        - name: Awesome Biwi
+          link: /omg-biwi
+        - name: Gazab Biwi
+          link: /omg-Biwi

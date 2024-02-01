@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Glossary of ingredients
-permalink: /glossary/
+permalink: /glossary
 ---
 
 | English | Hindi |

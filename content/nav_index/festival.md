@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Festival Recipes
-permalink: /festival/
+permalink: /festival
 menubar: menu_festival
 ---
 
